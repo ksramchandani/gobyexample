@@ -1,0 +1,6 @@
+package: goexamples/094_mockInterfacesForUnittest
+import: []
+testImport:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
