@@ -1,5 +1,5 @@
-- [] Do you have tests? [Testing Doc](www.google.com)
-- [] Are you using APM? [APM Doc] (www.google.com)
-- [] Have you read our docs? [with link to docs]
+- [] Do you have tests? [I'm an inline-style link](https://www.google.com)
+- [] Are you using APM? [I'm an inline-style link](https://www.google.com)
+- [] Have you read our docs? [I'm an inline-style link](https://www.google.com)
 - [] Have you added new required config variables?
-- [] Have you read the policy for plugins? [Plugin Policy Doc] (www.google.com)
+- [] Have you read the policy for plugins? [I'm an inline-style link](https://www.google.com)
