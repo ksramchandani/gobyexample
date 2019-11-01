@@ -1,1 +1,5 @@
-Do you have tests?
+- [] Do you have tests? [Testing Doc](www.google.com)
+- [] Are you using APM? [APM Doc] (www.google.com)
+- [] Have you read our docs? [with link to docs]
+- [] Have you added new required config variables?
+- [] Have you read the policy for plugins? [Plugin Policy Doc] (www.google.com)
